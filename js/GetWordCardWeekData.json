@@ -2,7 +2,7 @@
     "Data": [
         {
             "ItemID": 10001,
-            "ItemName": "IPhone16 Pro 512GB",
+            "ItemName": "IPhone16 Pro 512GB 模型機 1台",
             "Cnt": 1,
             "img": "images/icon/gold_3.png"
         },{
@@ -48,22 +48,22 @@
         }, {
             "ItemID": 10009,
             "ItemName": "新台幣100",
-            "Cnt": 500,
+            "Cnt": 100,
             "img": "images/icon/10009.png"
         }, {
             "ItemID": 10009,
             "ItemName": "新台幣100",
-            "Cnt": "100",
+            "Cnt": 100,
             "img": "images/icon/10009.png"
         }, {
             "ItemID": 10009,
             "ItemName": "新台幣100",
-            "Cnt": "100",
+            "Cnt": 100,
             "img": "images/icon/10009.png"
         }, {
             "ItemID": 10009,
             "ItemName": "新台幣100",
-            "Cnt": "100",
+            "Cnt": 100,
             "img": "images/icon/10009.png"
         }
     ]

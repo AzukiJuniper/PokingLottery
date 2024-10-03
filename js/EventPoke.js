@@ -42,7 +42,7 @@ angular.module('SGT', ['ngSanitize']).controller('PockControll', function ($scop
                     if ($scope.GetAward.ItemID == '10009') {
                         $scope.GetGiftInfo = '恭喜獲得' + $scope.GetAward.Cnt + ' 新台幣。';
                     } else {
-                        $scope.GetGiftInfo = '恭喜獲得' + $scope.GetAward.ItemName + 'X' + $scope.GetAward.Cnt + '。';
+                        $scope.GetGiftInfo = '恭喜獲得' + $scope.GetAward.ItemName + '。';
                     }
 
                     $scope.Rotate($scope.GetGiftInfo, $scope.GetAward.img, i);//執行戳戳樂動畫
