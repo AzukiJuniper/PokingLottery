@@ -48,24 +48,24 @@
             "img": "images/icon/bronze_card_2.png"
         }, {
             "ItemID": 10009,
-            "ItemName": "新台幣100",
+            "ItemName": "楓幣100",
             "Cnt": 100,
             "img": "images/icon/10009.png"
         }, {
             "ItemID": 10009,
-            "ItemName": "新台幣100",
+            "ItemName": "楓幣100",
             "Cnt": 100,
             "img": "images/icon/10009.png"
         }, {
-            "ItemID": 10009,
-            "ItemName": "新台幣100",
+            "ItemID": 10007,
+            "ItemName": "加油好嗎",
             "Cnt": 100,
-            "img": "images/icon/10009.png"
+            "img": "images/icon/main.png"
         }, {
-            "ItemID": 10009,
-            "ItemName": "新台幣100",
+            "ItemID": 10007,
+            "ItemName": "加油好嗎",
             "Cnt": 100,
-            "img": "images/icon/10009.png"
+            "img": "images/icon/main.png"
         }
     ]
 }
