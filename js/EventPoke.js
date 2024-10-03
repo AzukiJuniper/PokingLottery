@@ -40,7 +40,7 @@ angular.module('SGT', ['ngSanitize']).controller('PockControll', function ($scop
                     $scope.GetAward = n.Data[Math.floor((Math.random() * n.Data.length))];
 
                     if ($scope.GetAward.ItemID == '10009') {
-                        $scope.GetGiftInfo = '恭喜獲得' + $scope.GetAward.Cnt + ' 老幣。';
+                        $scope.GetGiftInfo = '恭喜獲得' + $scope.GetAward.Cnt + ' 新台幣。';
                     } else {
                         $scope.GetGiftInfo = '恭喜獲得' + $scope.GetAward.ItemName + 'X' + $scope.GetAward.Cnt + '。';
                     }
