@@ -1,41 +1,41 @@
 {
     "Data": [
         {
-          "ItemID": 10006,
-            "ItemName": "銘謝惠顧,送卡包1包",
+            "ItemID": 10001,
+            "ItemName": "IPhone16 Pro 512GB 模型機 1台",
             "Cnt": 1,
-            "img": "images/icon/bronze_card_1.png"
+            "img": "images/icon/gold_3.png"
         }
         ,{
-            "ItemID": 10006,
-            "ItemName": "銘謝惠顧,送卡包1包",
+            "ItemID": 10002,
+            "ItemName": "中培生乳紅茶限量1杯",
             "Cnt": 1,
-            "img": "images/icon/bronze_card_1.png"
+            "img": "images/icon/10010.png"
+        },{
+            "ItemID": 10003,
+            "ItemName": "超派apple冰茶限量1杯",
+            "Cnt": 1,
+            "img": "images/icon/10010.png"
         },{
             "ItemID": 10006,
             "ItemName": "銘謝惠顧,送卡包1包",
             "Cnt": 1,
             "img": "images/icon/bronze_card_1.png"
         },{
-            "ItemID": 10006,
-            "ItemName": "銘謝惠顧,送卡包1包",
+            "ItemID": 10004,
+            "ItemName": "舒潔1包",
             "Cnt": 1,
-            "img": "images/icon/bronze_card_1.png"
+            "img": "images/icon/10011.png"
         },{
-            "ItemID": 10006,
-            "ItemName": "銘謝惠顧,送卡包1包",
-            "Cnt": 1,
-            "img": "images/icon/bronze_card_1.png"
+            "ItemID": 10005,
+            "ItemName": "超派apple冰茶限量2杯",
+            "Cnt": 2,
+            "img": "images/icon/10010.png"
         },{
-            "ItemID": 10006,
-            "ItemName": "銘謝惠顧,送卡包1包",
-            "Cnt": 1,
-            "img": "images/icon/bronze_card_1.png"
-        },{
-            "ItemID": 10008,
-            "ItemName": "銘謝惠顧,送卡包1包",
-            "Cnt": 1,
-            "img": "images/icon/bronze_card_2.png"
+            "ItemID": 10005,
+            "ItemName": "超派apple冰茶限量2杯",
+            "Cnt": 2,
+            "img": "images/icon/10010.png"
         },{
             "ItemID": 10008,
             "ItemName": "銘謝惠顧,送卡包1包",
