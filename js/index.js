@@ -47,7 +47,7 @@ function PopComplateClose(Pokei) {
     //判斷洞已顯示五個
     $('.PokeItem' + Pokei).addClass('CursorNon');
     const ChangeLength = $('.PokeList>.CursorNon').length;
-    if (ChangeLength >= 7) {
+    if (ChangeLength >= 5) {
         location.reload();
     }
 }
