@@ -41,9 +41,7 @@ angular.module('SGT', ['ngSanitize']).controller('PockControll', function ($scop
 
                     if ($scope.GetAward.ItemID == '10009') {
                         $scope.GetGiftInfo = '銘謝惠顧';
-                    } else if ($scope.GetAward.ItemID == '10007') {
-                        $scope.GetGiftInfo = $scope.GetAward.ItemName+ '。';
-                    } else {
+                    }else {
                         $scope.GetGiftInfo = '恭喜獲得' + $scope.GetAward.ItemName + '。';
                     }
 

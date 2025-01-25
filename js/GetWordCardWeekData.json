@@ -8,6 +8,12 @@
         },
         {
             "ItemID": 10010,
+            "ItemName": "紅包$1000",
+            "Cnt": 1,
+            "img": "images/icon/10010.png"
+        },
+        {
+            "ItemID": 10010,
             "ItemName": "紅包$2000",
             "Cnt": 1,
             "img": "images/icon/10010.png"
@@ -31,46 +37,40 @@
             "img": "images/icon/10010.png"
         },
         {
-            "ItemID": 10010,
-            "ItemName": "紅包$6000",
-            "Cnt": 1,
-            "img": "images/icon/10010.png"
-        },
-        {
             "ItemID": 10001,
-            "ItemName": "家樂福禮卷卡*0張",
+            "ItemName": "家樂福禮卷無效卡",
             "Cnt": 1,
             "img": "images/icon/10001.png"
         },
         {
             "ItemID": 10001,
-            "ItemName": "家樂福禮卷卡*0張",
+            "ItemName": "家樂福禮卷無效卡",
             "Cnt": 1,
             "img": "images/icon/10001.png"
         },
         {
             "ItemID": 10001,
-            "ItemName": "家樂福禮卷卡*0張",
+            "ItemName": "家樂福禮卷無效卡",
             "Cnt": 1,
             "img": "images/icon/10001.png"
         },
         {
-            "ItemID": 10009,
-            "ItemName": "銘謝惠顧",
+            "ItemID": 10007,
+            "ItemName": "全聯禮卷無效卡",
             "Cnt": 1,
-            "img": "images/icon/10009.png"
+            "img": "images/icon/10007.png"
         },
         {
-            "ItemID": 10009,
-            "ItemName": "銘謝惠顧",
+            "ItemID": 10007,
+            "ItemName": "全聯禮卷無效卡",
             "Cnt": 1,
-            "img": "images/icon/10009.png"
+            "img": "images/icon/10007.png"
         },
         {
-            "ItemID": 10009,
-            "ItemName": "銘謝惠顧",
+            "ItemID": 10007,
+            "ItemName": "全聯禮卷無效卡",
             "Cnt": 1,
-            "img": "images/icon/10009.png"
+            "img": "images/icon/10007.png"
         },
         {
             "ItemID": 10009,
